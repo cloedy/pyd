@@ -27,6 +27,7 @@ greenlet            0.4.15
 grpcio              1.14.2   
 h5py                2.8.0    
 html5lib            1.0.1    
+httpie              1.0.2    
 hyperlink           18.0.0   
 idna                2.7      
 incremental         17.5.0   
@@ -83,6 +84,7 @@ pyparsing           2.2.0
 pypng               0.0.18   
 PyQRCode            1.2.1    
 pyquery             1.4.0    
+pytesseract         0.2.5    
 python-dateutil     2.7.3    
 pytz                2018.5   
 pyzmq               17.0.0   
